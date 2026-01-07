@@ -4,11 +4,9 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Rafael Chávez Santiago
 Maintainer: The package maintainer <rafaelchavezsantiago@ciencias.unam.mx>
-Description: This project will be a library for creating statistical predictive models
-using terra. 
-    It aims to implement different statistical models to analyse behaviour in problems such
-    as ecological niche modelling.
-License: MIT + file LICENSE
+Description: Changing to the description.
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/rafael41800/MiPrimerLibreriaEnRByRCS
